@@ -1,0 +1,47 @@
+.img1{
+    background-color: #778889;
+    border-radius: 50px;
+    border-width: 40px;
+    border-top-left-radius: 50px;
+   
+}
+.bb{
+    background-color: aqua;
+}
+.aa{
+    background-color: aqua;
+    text-align: center;
+    text-align: right;
+}
+.cc{
+    background-color: aqua;
+}
+.lu{
+    background-color: aqua;
+   
+}
+
+h6{
+    color: cornflowerblue;
+}
+.clor{
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+
+
+
+.p1{
+    text-align: left;
+}
+.clor2{
+    text-align: right;
+    background-color: burlywood;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+}
